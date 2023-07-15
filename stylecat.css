@@ -1,0 +1,35 @@
+*{
+    margin: 0
+    ;
+padding: 0;
+box-sizing: border-box;
+scroll-behavior: smooth;
+
+}
+
+nav a img{
+    height:100px  !important;
+    width:100px   !important;
+    
+}
+.single_prodect{
+    
+    position: relative; 
+  width: 30px;
+  
+}
+.badge{
+   
+    position: absolute; 
+    top: 18px; 
+    left:26px;
+  
+}
+.product_img{
+     height: 300px;
+     
+}
+.product_img a img {
+     height: 310px;
+     margin-top: 10px;
+}
